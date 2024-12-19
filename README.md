@@ -1,6 +1,6 @@
 # Hi there, I'm Umesh Raval, a Data Scientist and AIML enthusiast
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist with expertise in deep learning, computer vision, and music generation AI. Currently pursuing my Masters in Data Science at the University of Houston, I combine academic excellence with hands-on industry experience in AI/ML applications.
+Welcome to my GitHub profile! I'm a passionate Data Scientist with expertise in deep learning, computer vision, and music generation AI. Currently pursuing my Masters in Data Science at the University of Houston, I combine academic excellence with hands-on industry experience in AI/ML applications. I have cultivated a keen interest in the intersection of advanced technologies like Transformer Learning, which revolutionizes natural language processing and data representation, and State Space Models, which offer insights into dynamic systems and time series data, and their practical applications.
 I'm always open to collaborating on innovative projects and exploring new technologies in the AI/ML space. Let's connect and build something amazing together!
 
 ## About Me
