@@ -74,10 +74,13 @@ Other:
 
 ## Projects
 Here are some of the projects I've been working on:
-**Emotipy(https://github.com/UmeshRaval/project-repo):** Emotion-based music recommendation chatbot using DistilBERT with 94% validation accuracy
-**HVAC RL Control System(https://github.com/UmeshRaval/project-repo):** Reinforcement learning-based HVAC control reducing energy consumption by 29%
-**The Maze Escape(https://github.com/UmeshRaval/project-repo):** Procedurally generated 3D maze game with AI-driven enemy behavior
-**License Plate Recognition System(https://github.com/UmeshRaval/project-repo):** Computer vision application achieving 97.4% precision
+**Emotipy:** Emotion-based music recommendation chatbot using DistilBERT with 94% validation accuracy
+
+**HVAC RL Control System(https://github.com/UmeshRaval/HVAC-using-Reinforcement-Learning):** Reinforcement learning-based HVAC control reducing energy consumption by 29%
+
+**The Maze Escape:** Procedurally generated 3D maze game with AI-driven enemy behavior
+
+**License Plate Recognition System:** Computer vision application achieving 97.4% precision
 
 ## Top Languages
 
