@@ -74,6 +74,7 @@ Other:
 
 ## Projects
 Here are some of the projects I've been working on:
+
 **Emotipy:** Emotion-based music recommendation chatbot using DistilBERT with 94% validation accuracy
 
 **[HVAC RL Control System](https://github.com/UmeshRaval/HVAC-using-Reinforcement-Learning):** Reinforcement learning-based HVAC control reducing energy consumption by 29%
