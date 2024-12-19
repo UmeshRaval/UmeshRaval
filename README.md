@@ -11,7 +11,7 @@ I'm always open to collaborating on innovative projects and exploring new techno
 - 🤔 I’m looking for help with collaborating on open-source projects.
 - 💬 Ask me about anything related to Machine Learning, Python, and Databases.
 - 🎮 Side passion: Game development with Unreal Engine 5
-- 📫 How to reach me: [ubraval@uh.edu] or connect with me on [LinkedIn]([https://www.linkedin.com/in/umesh-raval-436758189]).
+- 📫 How to reach me: [ubraval@uh.edu] or connect with me on [LinkedIn](https://www.linkedin.com/in/umesh-raval-436758189/)
 
 ## My Skills
 - **AI/ML & Data Science:**
