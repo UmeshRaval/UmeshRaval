@@ -1,6 +1,6 @@
 # Hi there, I'm Umesh Raval, a Data Scientist and AIML enthusiast
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist with expertise in deep learning, computer vision, and music generation AI. Currently pursuing my Masters in Data Science at the University of Houston, I combine academic excellence with hands-on industry experience in AI/ML applications. I have cultivated a keen interest in the intersection of advanced technologies like Transformer Learning, which revolutionizes natural language processing and data representation, and State Space Models, which offer insights into dynamic systems and time series data, and their practical applications.
+Welcome to my GitHub profile! I'm a passionate Data Scientist currently pursuing my Masters in Data Science at the University of Houston. I have cultivated a keen interest in the intersection of advanced technologies like Transformer Learning and State Space Models and their practical applications.
 I'm always open to collaborating on innovative projects and exploring new technologies in the AI/ML space. Let's connect and build something amazing together!
 
 ## About Me
@@ -76,11 +76,11 @@ Other:
 Here are some of the projects I've been working on:
 **Emotipy:** Emotion-based music recommendation chatbot using DistilBERT with 94% validation accuracy
 
-**HVAC RL Control System(https://github.com/UmeshRaval/HVAC-using-Reinforcement-Learning):** Reinforcement learning-based HVAC control reducing energy consumption by 29%
+**[HVAC RL Control System](https://github.com/UmeshRaval/HVAC-using-Reinforcement-Learning):** Reinforcement learning-based HVAC control reducing energy consumption by 29%
 
 **The Maze Escape:** Procedurally generated 3D maze game with AI-driven enemy behavior
 
-**License Plate Recognition System:** Computer vision application achieving 97.4% precision
+**[Happiness index score prediction with GDP](https://github.com/UmeshRaval/HappinessPredictor):** Achieved a best cross-validation of 0.46 with Support Vector Machine using single feature
 
 ## Top Languages
 
