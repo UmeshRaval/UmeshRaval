@@ -18,7 +18,7 @@ I'm always open to collaborating on innovative projects and exploring new techno
 Deep Learning: LSTM, ResNet, DenseNet, BERT
 Machine Learning: Time Series Analysis, NLP, GANs, Reinforcement Learning
 
-Statistical Analysis & Data Visualization:
+Analysis & Visualization:
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
