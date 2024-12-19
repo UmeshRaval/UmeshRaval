@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a keen intere
 - 🌱 I’m currently learning and exploring new technologies such as Transformer Learning, Physics Informed Neural Networks, State Space Models.
 - 🤔 I’m looking for help with collaborating on open-source projects.
 - 💬 Ask me about anything related to Machine Learning, Python, and JavaScript.
-- 📫 How to reach me: [ubraval@uh.edu] or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/umesh-raval-436758189/)).
+- 📫 How to reach me: [ubraval@uh.edu] or connect with me on [LinkedIn]([https://www.linkedin.com/in/umesh-raval-436758189/]).
 
 ## My Skills
 
@@ -24,9 +24,6 @@ Here are some of the projects I've been working on:
 - **[Project Name](https://github.com/UmeshRaval/project-repo):** Brief description of the project.
 - **[Another Project](https://github.com/UmeshRaval/another-project-repo):** Brief description of this project.
 
-## GitHub Stats
-
-![Umesh Raval's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmeshRaval&show_icons=true&theme=radical)
 
 ## Top Languages
 
@@ -34,7 +31,6 @@ Here are some of the projects I've been working on:
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/umesh-raval-436758189/)
 
 Thanks for stopping by! Have a great day! 😊
